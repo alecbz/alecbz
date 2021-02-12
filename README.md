@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 👋
+
+I write software at [stripe](//stripe.com/about)
+
+Previously [some](//level.com/about) [startups](//imagen.ai), [google](//google.com/about)
 
 <!--
 **alecbz/alecbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
